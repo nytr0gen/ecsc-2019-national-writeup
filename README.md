@@ -47,7 +47,7 @@ https://puzzled.challs.cybersecuritychallenge.ro/flag_token_sad123a3edewdc32dwas
 
 Flag is in Source Code
 
-Voting Platform (150pcts): Web
+Voting Platform (150pcts): Web
 =======
 
 Proof of Flag
@@ -132,7 +132,7 @@ sqe027adVn@bkmvenjrbhvuerb23.com
 
 Got two close ids. Bruteforce between them. Got cookie for admin. Copied the cookie in browser and the flag was there. See picture above.
 
-
+
 Office Convert (150pcts): Web
 ==========
 
@@ -195,6 +195,7 @@ a=module.exports = ECSC{98028539a362efecbde13ae4df924e02432555bb1f47302199383306
 
 
 Crypto Luck (150pts): Crypto
+============
 
 Proof of Flag
 -------------
@@ -267,7 +268,7 @@ while True:
 ```
 
 
-
+
 super_caesar (250pcts): Crypto
 =====
 
@@ -319,6 +320,7 @@ bytearray(b'WelLdONEyOUhAVESolVeDThiSTASKyOurFlAGisBGtSheIosNMPWRqTABZcdYhkIeCHt
 ```
 
 I was in the last 5 minutes and it didn’t work. Panicked. Tried like 5 variations and got it.
+
 
 
 Alice (300pts): Crypto
@@ -396,7 +398,7 @@ https://gchq.github.io/CyberChef/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true)ROT
 ```
 
 
-
+
 Piet Mondrian (100pts): Misc
 =========
 
@@ -429,7 +431,8 @@ ECSC{e647c19e4fc7838bf7ECSC{e6%
 ➜ ./bin/npiet ./p3.png | head -c 30
 adfb889bee5201fc4397e5d}adfb88%
 ```
-
+
+
 Victim (100pts): Network
 ===========
 
@@ -477,7 +480,8 @@ PASS password
 
 Password `VADPRDqid4TaB0r5a2B0n9wLp` worked. `Flag.txt` contains the flag.
 
-
+
+
 Unusual Communication (200pts): Network
 ========
 
@@ -554,7 +558,7 @@ INSEE/Postal code
 
 Wasn't sure which. Tested both.`ECSC{sha256('33229')}` is the flag.
 
-
+
 guessing-game (100pts): Revexp
 =========
 
@@ -614,7 +618,7 @@ if __name__ == "__main__":
     log.info(data)
 ```
 
-
+
 Checker (150pts): Revexp
 ======
 
