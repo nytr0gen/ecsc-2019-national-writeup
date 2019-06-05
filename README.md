@@ -1,6 +1,8 @@
 ECSC 2019 - National Phase - Romania
 ============
 
+![scoreboard](scoreboard.png)
+
 Webcam (5pcts): Warmup
 =======
 
@@ -195,6 +197,7 @@ a=module.exports = ECSC{98028539a362efecbde13ae4df924e02432555bb1f47302199383306
 
 
 Crypto Luck (150pts): Crypto
+==============
 
 Proof of Flag
 -------------
